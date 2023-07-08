@@ -1,0 +1,39 @@
+name {
+    display: block;
+    margin-left: 25px;
+    margin-bottom: 30px;
+    
+    /* other styling */
+    border-radius: 10px;
+    font-size: xx-large;
+    color: rgb(80, 0, 130);
+    font-family:'Times New Roman', Times, serif;
+}
+
+menu_bar_item {
+  margin: 25px;
+  display: inline;
+  font-weight: bold;
+}
+
+menu_bar_space {
+  margin: 12.5px;
+  display: inline;
+}
+
+/* text decoration property to remove underline */
+#no-underline {
+  text-decoration: none;
+}
+
+.container {
+  display: flex;
+  align-items: center; 
+  justify-content: center;
+}
+
+.text {
+  padding-left: 20px;
+}
+  
+  
